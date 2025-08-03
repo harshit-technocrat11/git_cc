@@ -20,3 +20,8 @@ function subject(){
 
 subject()
 
+function newFn()
+{
+    console.log('im a new student')
+}
+
