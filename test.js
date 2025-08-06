@@ -8,3 +8,9 @@ function  product(a,b){
 };
 
 product(3,4);
+
+function india(){
+    console.log('jai hind')
+}
+
+india();
