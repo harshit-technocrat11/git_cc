@@ -7,3 +7,5 @@ function india() {
 }
 
 india();
+
+console.log('adding new print statement')
